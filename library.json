@@ -1,0 +1,16 @@
+{
+    "name": "DAC7565",
+    "keywords": "TI, dac, DAC7565, DAC7564, DAC8164, DAC8564, 7565, 7564, 8164, 8564, spi, digital, analog",
+    "description": "Library Texas Instrument DAC converter by Texas Instrument",
+     "authors":
+    {
+        "name": "Charles-Henri Hallard",
+        "url": "https://github.com/hallard/DAC-Shield"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hallard/DAC7565.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+}
