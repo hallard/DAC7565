@@ -1,0 +1,50 @@
+#######################################
+# Syntax Coloring Map For DAC library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DAC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init KEYWORD2
+write KEYWORD2
+setReference KEYWORD2
+setChannelPower KEYWORD2
+writeChannel KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DAC_REFERENCE_ALWAYS_POWERED_DOWN  
+DAC_REFERENCE_POWERED_TO_DEFAULT   
+DAC_REFERENCE_ALWAYS_POWERED_UP    
+
+DAC_MASK_LD1       
+DAC_MASK_LD0       
+DAC_MASK_SELECT1   
+DAC_MASK_SELECT2   
+DAC_MASK_PD0       
+DAC_MASK_DATA      
+
+DAC_POWER_DOWN_1K   
+DAC_POWER_DOWN_100K 
+DAC_POWER_DOWN_HIZ
+
+DAC_SINGLE_CHANNEL_STORE
+DAC_SINGLE_CHANNEL_UPDATE
+DAC_SIMULTANEOUS_UPDATE
+DAC_BROADCAST_UPDATE
+
+DAC_CHANNEL_A
+DAC_CHANNEL_B
+DAC_CHANNEL_C
+DAC_CHANNEL_D
