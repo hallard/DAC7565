@@ -1,5 +1,5 @@
 // **********************************************************************************
-// Driver definition for TI DAC7564 DAC8565 and so on
+// Driver definition for TI DAC7565, DAC7564, DAC8164 and DAC8564 Library
 // **********************************************************************************
 // Creative Commons Attrib Share-Alike License
 // You are free to use/extend this library but please abide with the CC-BY-SA license:
