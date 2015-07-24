@@ -49,7 +49,7 @@ See news and other projects on my [blog][4]
  
 [1]: http://learn.adafruit.com/arduino-tips-tricks-and-techniques/arduino-libraries
 [2]: http://www.dsscircuits.com/index.php/articles/66-arduino-i2c-master-library
-[3]: https://github.com/hallard/DAC7565/blob/master/examples/Dac_Simple_Output/Dac_Simple_Output.ino
+[3]: https://github.com/hallard/DAC7565/blob/master/examples/DAC_Simple_Output/DAC_Simple_Output.ino
 [4]: http://hallard.me
 [5]: http://hallard.me/th02-library/
 [6]: https://github.com/hallard/DAC-Shield
