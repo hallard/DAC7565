@@ -10,11 +10,11 @@ DAC	KEYWORD1
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-init KEYWORD2
-write KEYWORD2
-setReference KEYWORD2
-setChannelPower KEYWORD2
-writeChannel KEYWORD2
+init	KEYWORD2
+write	KEYWORD2
+setReference	KEYWORD2
+setChannelPower	KEYWORD2
+writeChannel	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
